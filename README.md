@@ -1,4 +1,6 @@
 # JFry [![Build Status](https://travis-ci.org/ggalmazor/jfry.svg?branch=master)](https://travis-ci.org/ggalmazor/jfry)
+
+[![Join the chat at https://gitter.im/ggalmazor/jfry](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ggalmazor/jfry?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Java Fry is a web library inspired by Sinatra
 
 ## Getting started
